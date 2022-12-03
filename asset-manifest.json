@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.328ab46b.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.156482ef.css",
+    "main.js": "/static/js/main.a942817b.js",
+    "static/media/ketto.png": "/static/media/ketto.cdf7dc0988038852789e.png",
+    "static/media/indeed.png": "/static/media/indeed.9c3918de700d098438dc.png",
+    "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/engagebey.png": "/static/media/engagebey.215975d8a23ef1b9576c.png",
+    "static/media/rajesh_Resume.pdf": "/static/media/rajesh_Resume.f2994bdafb5eab1da570.pdf",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/rajesh.jpeg": "/static/media/rajesh.7aa868fb9aadb3cffd88.jpeg",
+    "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/express.png": "/static/media/express.1182731d0fa4994589eb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.328ab46b.js.map": "/static/js/main.328ab46b.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.156482ef.css.map": "/static/css/main.156482ef.css.map",
+    "main.a942817b.js.map": "/static/js/main.a942817b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.328ab46b.js"
+    "static/css/main.156482ef.css",
+    "static/js/main.a942817b.js"
   ]
 }
