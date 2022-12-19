@@ -25,10 +25,10 @@ const Statistics = () => {
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
           <p style={{textShadow: "0 0 5px #040404, 0 0 15px #4a53cf, 0 0 20px #040404, 0 0 40px #040404, 0 0 60px #3bb6c4, 0 0 10px #4a53cf, 0 0 98px #040404"}}
-            className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
+            className="text-5xl font-bold border-b-4 border-gray-500 p-2 inline">
             Statistics
           </p>
-          <p className="py-6">
+          <p className="py-8">
             These are some of statistics graphs to determine my contribution and
             knowledge in this digital world.
           </p>
