@@ -23,6 +23,7 @@ function App() {
       <Contact />
       <Footer />
       <SocialLinks />
+      
     </div>
   );
 }
