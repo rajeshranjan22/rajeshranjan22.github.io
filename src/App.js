@@ -4,8 +4,7 @@ import Skills from "./components/Skills";
 import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Portfolio from "./components/Portfolio";
-import SocialLinks from "./components/SocialLinks";
-import Footer from "./components/Footer"
+// import SocialLinks from "./components/SocialLinks";
 import Statistics from "./components/Statistics";
 // import {useEffect} from "react";
 // import AOS from "aos";
@@ -21,8 +20,7 @@ function App() {
       <Skills />
       <Statistics/>
       <Contact />
-      <Footer />
-      <SocialLinks />
+      {/* <SocialLinks /> */}
       
     </div>
   );

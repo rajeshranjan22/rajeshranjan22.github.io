@@ -1,34 +1,46 @@
 import React from "react";
-import ketto from "../assets/portfolio/ketto.png"
-import indeed from "../assets/portfolio/indeed.png"
-import engagebey from "../assets/portfolio/engagebey.png"
+import BlueFly from "../assets/BlueFly.png"
+import Expedia from "../assets/Expedia.png"
+import JioMart from "../assets/JioMart.png"
+import Smatbot from "../assets/Smatbot.png"
+
 
 const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      src: indeed,
-      title: "Expedia  Clone",
-      techStack: "REACT |CHAKRA UI | CSS",
-      desc: "Here you can easily book flights, cars, hotels, cruises. Booking with Expedia is easy.",
-      link: "https://rajesh-one.netlify.app/",
-      repo: "https://github.com/rajeshranjan22/Bitter-level-627",
+      src: JioMart,
+      title: "JioMart  Clone",
+      techStack: "REACT | Redux | CHAKRA UI ",
+      desc: "It is a Grocery website where you can buy day to day grocery for your Household. This was a team project where I with my teammates had created and implemented each functionalities.",
+      link: "https://wonderful-choux-93af66.netlify.app/",
+      repo: "https://github.com/saurav269/unkempt-group-9754",
     },
     {
       id: 2,
-      src: ketto,
-      title: "Bluefy Clone",
-      techStack:"HTML | CSS | JS" ,
-      desc: "E-commerce website where users can buy products such as clothing, shoes, handbags, watches etc.",
+      src: BlueFly,
+      title: "BlueFly Clone",
+      techStack:"HTML | CSS | JavaScript" ,
+      desc: "E-commerce website where users can buy products such as clothing, shoes, handbags, watches etc. This was a team project where I with my teammates had created and implemented each functionalities.",
       link: "https://snazzy-blini-1ddf84.netlify.app/",
       repo: "https://github.com/Anwar7411/direful-order-8525",
     },
     {
       id: 3,
-      src: engagebey,
-      title: "Smatbot  clone",
-      techStack:"HTML | CSS | JS",
-      desc: "SmatBot is a conversational platform with a unified experience across Website, Whatsapp, Blog, Facebook Messenger And Mobile Applications",
+      src: Expedia,
+      title: "Expedia  Clone",
+      techStack: "REACT | CHAKRA UI | CSS",
+      desc: "Here you can easily book flights, cars, hotels, cruises. It was an Individual Project where I implemented some functionalities like login & signup user data authentication.",
+      link: "https://rajesh-one.netlify.app/",
+      repo: "https://github.com/rajeshranjan22/Bitter-level-627",
+    },
+    
+    {
+      id: 4,
+      src: Smatbot,
+      title: "SmatBot  Clone",
+      techStack:"HTML | CSS | JavaScript",
+      desc: "SmatBot is a conversational platform with a unified experience across Website. It was an Individual Project where I implemented some functionalities like login & signup user data authentication.",
       link: "https://cool-kringle-027f73.netlify.app/",
       repo: "https://github.com/rajeshranjan22/satisfying-bee-4021",
     },

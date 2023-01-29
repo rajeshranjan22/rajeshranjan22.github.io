@@ -1,22 +1,8 @@
 import React from "react";
 import GitHubCalendar from "react-github-calendar";
+
 const Statistics = () => {
-  const selectLastHalfYear = (contributions) => {
-    const currentYear = new Date().getFullYear();
-    const currentMonth = new Date().getMonth();
-    const shownMonths = 6;
 
-    return contributions.filter((day) => {
-      const date = new Date(day.date);
-      const monthOfDay = date.getMonth();
-
-      return (
-        date.getFullYear() === currentYear &&
-        monthOfDay > currentMonth - shownMonths &&
-        monthOfDay <= currentMonth
-      );
-    });
-  };
   return (
     <div
       style={{ height: "auto" }}
@@ -37,20 +23,27 @@ const Statistics = () => {
         <div className="flex gap-9  justify-center mt-14">
       <p>
         
-        <img align="center" width="400" height="auto"   alt="satyam's github stats" 
+        <img align="center" width="400" height="auto"   alt="rajesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=algolia&count_private=true" />
       </p>
-      <p> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&hide=smalltalk&theme=algolia&layout=compact" alt="satyam" />
+      <p> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&hide=smalltalk&theme=algolia&layout=compact" alt="Rajesh" />
       </p>
       </div>
-      <div className="flex justify-center items-center  mt-16 text-6xl font-medium">
-        <GitHubCalendar 
-     username="rajeshranjan22" 
-  transformData={selectLastHalfYear} />
+      
+
+  {/* <div style={{padding: "20px 20px", background:"white", color: "black"}}>
+  <img src="https://ghchart.rshah.org/rajeshranjan22"
+ alt="" />
+ 
+  </div> */}
+
+        <div data-aos="fade-up" className='w-11/12 m-auto pt-10 pb-10 flex justify-center'>
+             <GitHubCalendar username="rajeshranjan22" />
+        </div>
       </div>
       
       </div>
-    </div>
+   
   );
 };
 export default Statistics;
