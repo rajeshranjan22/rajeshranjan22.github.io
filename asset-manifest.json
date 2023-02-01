@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.da35ce56.css",
-    "main.js": "/static/js/main.828d5334.js",
+    "main.js": "/static/js/main.0b3961b9.js",
     "static/media/contact-us.jpg": "/static/media/contact-us.d14e06aa2a97b5f3b3d7.jpg",
+    "static/media/rajesh_Resume.pdf": "/static/media/rajesh_Resume.40a9702aabe978252594.pdf",
     "static/media/BlueFly.png": "/static/media/BlueFly.cdf7dc0988038852789e.png",
     "static/media/JioMart.png": "/static/media/JioMart.6b74ff7cac05e4f41b45.png",
     "static/media/Expedia.png": "/static/media/Expedia.9c3918de700d098438dc.png",
     "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/Smatbot.png": "/static/media/Smatbot.215975d8a23ef1b9576c.png",
-    "static/media/rajesh_Resume.pdf": "/static/media/rajesh_Resume.93b1f8aeaf08935efe2d.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/rajesh.jpeg": "/static/media/rajesh.7aa868fb9aadb3cffd88.jpeg",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.da35ce56.css.map": "/static/css/main.da35ce56.css.map",
-    "main.828d5334.js.map": "/static/js/main.828d5334.js.map"
+    "main.0b3961b9.js.map": "/static/js/main.0b3961b9.js.map"
   },
   "entrypoints": [
     "static/css/main.da35ce56.css",
-    "static/js/main.828d5334.js"
+    "static/js/main.0b3961b9.js"
   ]
 }
