@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2e563c6.css",
-    "main.js": "/static/js/main.bebb2763.js",
+    "main.css": "/static/css/main.b00018ca.css",
+    "main.js": "/static/js/main.bacfb993.js",
     "static/media/AJIO.png": "/static/media/AJIO.7668f49cf2eb94ee6b76.png",
     "static/media/contact-us.jpg": "/static/media/contact-us.d14e06aa2a97b5f3b3d7.jpg",
     "static/media/fp05_327-Rajesh_Ranjan_Resume.pdf": "/static/media/fp05_327-Rajesh_Ranjan_Resume.1781a7db1de42990d9ec.pdf",
@@ -17,11 +17,11 @@
     "static/media/express.png": "/static/media/express.1182731d0fa4994589eb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.c2e563c6.css.map": "/static/css/main.c2e563c6.css.map",
-    "main.bebb2763.js.map": "/static/js/main.bebb2763.js.map"
+    "main.b00018ca.css.map": "/static/css/main.b00018ca.css.map",
+    "main.bacfb993.js.map": "/static/js/main.bacfb993.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2e563c6.css",
-    "static/js/main.bebb2763.js"
+    "static/css/main.b00018ca.css",
+    "static/js/main.bacfb993.js"
   ]
 }
