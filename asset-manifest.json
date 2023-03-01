@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.777bb3e8.css",
-    "main.js": "/static/js/main.59eec68b.js",
+    "main.css": "/static/css/main.c2e563c6.css",
+    "main.js": "/static/js/main.bebb2763.js",
     "static/media/AJIO.png": "/static/media/AJIO.7668f49cf2eb94ee6b76.png",
     "static/media/contact-us.jpg": "/static/media/contact-us.d14e06aa2a97b5f3b3d7.jpg",
-    "static/media/Rajesh_Ranjan_Resume.pdf": "/static/media/Rajesh_Ranjan_Resume.40a9702aabe978252594.pdf",
+    "static/media/fp05_327-Rajesh_Ranjan_Resume.pdf": "/static/media/fp05_327-Rajesh_Ranjan_Resume.1781a7db1de42990d9ec.pdf",
     "static/media/BlueFly.png": "/static/media/BlueFly.cdf7dc0988038852789e.png",
     "static/media/JioMart.png": "/static/media/JioMart.6b74ff7cac05e4f41b45.png",
     "static/media/Expedia.png": "/static/media/Expedia.9c3918de700d098438dc.png",
@@ -17,11 +17,11 @@
     "static/media/express.png": "/static/media/express.1182731d0fa4994589eb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.777bb3e8.css.map": "/static/css/main.777bb3e8.css.map",
-    "main.59eec68b.js.map": "/static/js/main.59eec68b.js.map"
+    "main.c2e563c6.css.map": "/static/css/main.c2e563c6.css.map",
+    "main.bebb2763.js.map": "/static/js/main.bebb2763.js.map"
   },
   "entrypoints": [
-    "static/css/main.777bb3e8.css",
-    "static/js/main.59eec68b.js"
+    "static/css/main.c2e563c6.css",
+    "static/js/main.bebb2763.js"
   ]
 }
