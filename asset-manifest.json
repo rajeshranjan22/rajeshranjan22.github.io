@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.b00018ca.css",
-    "main.js": "/static/js/main.bacfb993.js",
+    "main.js": "/static/js/main.45772d54.js",
     "static/media/AJIO.png": "/static/media/AJIO.7668f49cf2eb94ee6b76.png",
     "static/media/contact-us.jpg": "/static/media/contact-us.d14e06aa2a97b5f3b3d7.jpg",
+    "static/media/PinBall.png": "/static/media/PinBall.b0a935f5d1272037f1cb.png",
     "static/media/fp05_327-Rajesh_Ranjan_Resume.pdf": "/static/media/fp05_327-Rajesh_Ranjan_Resume.1781a7db1de42990d9ec.pdf",
     "static/media/BlueFly.png": "/static/media/BlueFly.cdf7dc0988038852789e.png",
     "static/media/JioMart.png": "/static/media/JioMart.6b74ff7cac05e4f41b45.png",
@@ -18,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.b00018ca.css.map": "/static/css/main.b00018ca.css.map",
-    "main.bacfb993.js.map": "/static/js/main.bacfb993.js.map"
+    "main.45772d54.js.map": "/static/js/main.45772d54.js.map"
   },
   "entrypoints": [
     "static/css/main.b00018ca.css",
-    "static/js/main.bacfb993.js"
+    "static/js/main.45772d54.js"
   ]
 }
